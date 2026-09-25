@@ -1,52 +1,57 @@
-👋 Hi, I'm Khushboo
-☁️ AWS Cloud Engineer
-AWS Certified Solutions Architect – Associate
+# 👋 Hi, I'm Khushboo
 
-AWS Cloud Engineer focused on building secure and reliable cloud infrastructure using AWS, Linux, networking, and CI/CD.
+## ☁️ AWS Cloud Engineer
 
-☁️ AWS & Cloud
-Amazon VPC
+**AWS Certified Solutions Architect – Associate**
 
-Amazon EC2
+AWS Cloud Engineer focused on building **secure and reliable cloud infrastructure** using **AWS, Linux, networking, and CI/CD**.
 
-Application Load Balancer
+---
 
-IAM
+## ☁️ AWS & Cloud
 
-Amazon CloudWatch
+- **Amazon VPC**
+- **Amazon EC2**
+- **Application Load Balancer**
+- **IAM**
+- **Amazon CloudWatch**
+- **AWS CLI**
 
-AWS CLI
+## ⚙️ DevOps & Automation
 
-⚙️ DevOps & Automation
-Git & GitHub
+- **Git & GitHub**
+- **CI/CD**
+- **AWS CodePipeline**
+- **AWS CodeBuild**
+- **Ansible**
+- **Linux**
 
-CI/CD
+---
 
-AWS CodePipeline
+## 🚀 Featured Projects
 
-AWS CodeBuild
+### 🔐 Secure & Private AWS Web Application
 
-Ansible
-
-Linux
-
-🚀 Featured Projects
-🔐 Secure & Private AWS Web Application
 AWS VPC with public and private subnets, EC2, Application Load Balancer, security groups, and bastion host.
 
-View Project
+**[View Project](https://github.com/kjharbade/aws-private-subnet-project)**
 
-⚙️ AWS End-to-End CI/CD Pipeline
+### ⚙️ AWS End-to-End CI/CD Pipeline
+
 GitHub → AWS CodePipeline → AWS CodeBuild → EC2.
 
-Currently building
+**Currently building**
 
-🏆 Certification
-AWS Certified Solutions Architect – Associate
+---
 
-📚 Currently Learning
-Infrastructure as Code
+## 🏆 Certification
 
-Advanced AWS DevOps practices
+**AWS Certified Solutions Architect – Associate**
 
-Cloud automation
+---
+
+## 📚 Currently Learning
+
+- **Infrastructure as Code**
+- **Advanced AWS DevOps practices**
+- **Cloud automation**
